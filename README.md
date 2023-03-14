@@ -1,1 +1,1 @@
-# gitHub
+# Workshop de Introdução ao Git
