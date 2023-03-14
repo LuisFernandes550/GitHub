@@ -2,7 +2,7 @@
 
 O Git é um sistema de controlo de versões distribuído, gratuito e de código aberto, desenvolvido originalmente pelo Linus Torvalds, o criador do Kernel do sistema operativo Linux, e atualmente é mantido pelo Junio Hamano juntamente com outros quase 300 colaboradores voluntários.
 
-<img src="https://pt.wikipedia.org/wiki/Git#/media/Ficheiro:Git-logo.svg" width="300" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1920px-Git-logo.svg.png" width="300" />
 
 A sua principal utilização visa o desenvolvimento de software, mas pode ser usado para registar o histórico de edições de qualquer tipo de ficheiro.
 
