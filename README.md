@@ -32,3 +32,50 @@ Um sistema de controlo de versões deverá conter ferramentas para:
   <li>permitir a colaboração com outros programadores</li>  
   <li>separar “troncos” de desenvolvimento (ex: produção/desenvolvimento)</li>
 </ul>
+
+## VCS distribuidos
+Num Sistema de Controlo de Versões Distríbuido: 
+<ul>
+  <li>Cada cópia dum repositório contém a historia completa</li> 
+  <li>Permitem registar modificações mesmo sem acesso a rede</li> 
+  <li>Evitam um ponto crítico para falhas</li> 
+  <li>Facilitam a introdução de branches experimentais</li> 
+</ul>
+
+Git
+• Um VCS distribuído
+• Desenvolvido em 2005 para o kernel Linux
+• Muito usado em projetos open-source
+• Características:
+– conceção simples mas poderosa
+– adequado a projectos grandes (muitos ficheiros e história longa)
+– eficiente em espaço e recursos computacionais
+– suporte para desenvolvimento não-linear (“branching”)
+
+## Porquê usar Git?
+• Sincronização de trabalhos entre computador pessoal e da universidade
+– diga adeus às pen drives ou Dropbox
+• Permite experimentar modificações sem receios
+– podemos reverter facilmente se necessário
+• Repositórios remotos funcionam como backup
+• As mensagens de commits são um registo histórico do desenvolvimento
+• Não apenas para código: documentação, relatórios, dissertações
+Como funciona
+• Cada repositório consiste de um conjunto de ficheiros e diretórios
+• Quando registamos uma modificação (commit), o Git guarda um snapshot
+de todos os ficheiros
+• Ficheiros inalterados são guardados como referências ao commit anterior
+
+## Integridade
+• O Git associa um hash (40 carateres hexadecimais) a cada snapshot, e.g.:
+34ac2a6552252987aa493b52f8696cd6d3b00373
+• Garante que o conteúdo dos ficheiros não foi corrompido
+• Serve também para identificar cada snapshot
+
+## Repositórios locais e remotos
+• Quase todas as operações com Git são locais:
+– inicializar repositórios
+– acrescentar/remover ficheiros
+– registar modificações (commit)
+– listar a história
+• O Git permite também sincronizar com repositórios remotos 
