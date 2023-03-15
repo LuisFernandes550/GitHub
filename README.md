@@ -94,3 +94,10 @@ https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-wr
 ## GitHub Markdown Badges
 
 https://github.com/Ileriayo/markdown-badges
+
+#GitKraken
+
+https://www.gitkraken.com/
+
+https://www.youtube.com/watch?v=RiAeNSFjjLc&ab_channel=GitKraken
+
