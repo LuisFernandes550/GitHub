@@ -53,24 +53,27 @@ Git
 – suporte para desenvolvimento não-linear (“branching”)
 
 ## Porquê usar Git?
-• Sincronização de trabalhos entre computador pessoal e da universidade
-– diga adeus às pen drives ou Dropbox
-• Permite experimentar modificações sem receios
-– podemos reverter facilmente se necessário
-• Repositórios remotos funcionam como backup
-• As mensagens de commits são um registo histórico do desenvolvimento
-• Não apenas para código: documentação, relatórios, dissertações
-Como funciona
-• Cada repositório consiste de um conjunto de ficheiros e diretórios
-• Quando registamos uma modificação (commit), o Git guarda um snapshot
-de todos os ficheiros
-• Ficheiros inalterados são guardados como referências ao commit anterior
+
+<ul>
+  <li>Sincronização de trabalhos entre o computador pessoal e da escola</li>
+  <li>Permite experimentar modificações sem receios – podemos reverter facilmente se necessário</li> 
+  <li>Repositórios remotos funcionam como backup</li> 
+  <li>As mensagens de commits são um registo histórico do desenvolvimento</li> 
+  <li>Não apenas para código: documentação, relatórios, dissertações</li> 
+</ul>
+
+## Como funciona
+<ul>
+  <li>Cada repositório consiste de um conjunto de ficheiros e diretórios</li>
+  <li>Quando registamos uma modificação (commit), o Git guarda um snapshot de todos os ficheiros</li>
+  <li>Ficheiros inalterados são guardados como referências ao commit anterior</li>
+</ul>
 
 ## Integridade
-• O Git associa um hash (40 carateres hexadecimais) a cada snapshot, e.g.:
-34ac2a6552252987aa493b52f8696cd6d3b00373
-• Garante que o conteúdo dos ficheiros não foi corrompido
-• Serve também para identificar cada snapshot
+
+O Git associa um hash (40 carateres hexadecimais) a cada snapshot, e.g.: 34ac2a6552252987aa493b52f8696cd6d3b00373 <br>
+Garante que o conteúdo dos ficheiros não foi corrompido. <br>
+Serve também para identificar cada snapshot. <br>
 
 ## Repositórios locais e remotos
 • Quase todas as operações com Git são locais:
