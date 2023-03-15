@@ -95,9 +95,9 @@ https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-wr
 
 https://github.com/Ileriayo/markdown-badges
 
-#GitKraken
+# GitKraken
 
-https://www.gitkraken.com/
+<a href="https://www.gitkraken.com/">Cliente GitKraken</a>
 
 https://www.youtube.com/watch?v=RiAeNSFjjLc&ab_channel=GitKraken
 
