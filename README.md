@@ -83,6 +83,6 @@ Quase todas as operações com Git são locais:
 Através desta  plataforma colaborativa é fácil partilhar e gerir o código fonte dos projectos que desenvolvemos. <br>
 Além disso, como o código é partilhado pode ser facilmente melhorado por outros colaboradores.</p>
 
-## Sintaxe básica Readme.md
+## Sintaxe básica de gravação e formatação no GitHub (Readme.md)
 
 https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
