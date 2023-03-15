@@ -12,6 +12,10 @@ A sua principal utilização visa o desenvolvimento de software, mas pode ser us
 
 Comparado com outros sistemas de controlo de versões tradicionais, o Git diferencia-se por ser <b>extremamente rápido</b>, por <b>simplificar o desenvolvimento de software de forma não-linear</b>, onde podemos trabalhar em paralelo em diferentes funcionalidades das aplicações que desenvolvemos e então escolher quais funcionalidades devem fazer parte de cada versão da aplicação conforme o nosso fluxo de trabalho, e principalmente por ser um <b>sistema distribuído</b> bastante versátil e adequado para projetos de qualquer dimensão.
 
+<p align="center">
+<img src="https://webcult.pt/wp-content/uploads/2022/08/git-branchs.png" width="800" />
+</p>
+
 A utilização do GIT permite que um utilizador tenha acesso aos dados que foram por ele guardados ou por outro(s) utilizador(es) que também tenha(m) acesso ao repositório, <b>permitindo que um ficheiro possa ser editado ao mesmo tempo por múltiplas pessoas diferentes</b>. 
 
 <p align="center">
