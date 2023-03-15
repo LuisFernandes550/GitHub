@@ -76,4 +76,4 @@ Quase todas as operações com Git são locais:
   <li>registar modificações (commit)</li>
   <li>listar a história</li>
 </ul>
-O Git permite também sincronizar com repositórios remotos. 
+<p>O Git permite também sincronizar com repositórios remotos. </p>
