@@ -17,3 +17,14 @@ A utilização do GIT permite que um utilizador tenha acesso aos dados que foram
 </p>
 
 Tem um grande nível de segurança/desempenho e é bastante flexível, porque é <b>compatível com a maioria dos sistemas</b> - possui versões para Windows, Linux e Mac OS X, o que facilita muito o controlo de versões de aplicações desenvolvidas em diferentes plataformas.
+
+
+Sistemas de Controlo de Versões (VCS)
+Ferramentas para:
+• arquivar ficheiros de um projeto (código-fonte e outros)
+• registar alterações durante o desenvolvimento
+• desfazer alterações ou recuperar versões anteriores
+• sincronizar diferentes computadores
+• colaborar com outros programadores
+• separar “troncos” de desenvolvimento
+(ex: produção/desenvolvimento)
