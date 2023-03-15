@@ -1,6 +1,6 @@
 # Workshop de Introdução ao Git
 
-### O que é o Git?
+## O que é o Git?
 
 O Git é um sistema de controlo de versões distribuído, gratuito e de código aberto, desenvolvido originalmente pelo <a href="https://pt.wikipedia.org/wiki/Linus_Torvalds">Linus Torvalds</a>, o criador do Kernel do sistema operativo Linux, e atualmente é mantido pelo <a href="https://pt.wikipedia.org/wiki/Junio_Hamano">Junio Hamano</a> juntamente com outros quase 300 colaboradores voluntários.
 
@@ -22,11 +22,13 @@ Tem um grande nível de segurança/desempenho e é bastante flexível, porque é
 
 
 ## Sistemas de Controlo de Versões (VCS)
-Ferramentas para:
-• arquivar ficheiros de um projeto (código-fonte e outros)
-• registar alterações durante o desenvolvimento
-• desfazer alterações ou recuperar versões anteriores
-• sincronizar diferentes computadores
-• colaborar com outros programadores
-• separar “troncos” de desenvolvimento
-(ex: produção/desenvolvimento)
+
+Um sistema de controlode versões poderá conter ferramentas para:
+<ul>
+  <li>arquivar ficheiros de um projeto (código-fonte e outros)</li>
+  <li>registar alterações durante o desenvolvimento</li>
+  <li>desfazer alterações ou recuperar versões anteriores</li>
+  <li>sincronizar diferentes computadores</li>  
+  <li>colaborar com outros programadores</li>  
+  <li>separar “troncos” de desenvolvimento (ex: produção/desenvolvimento)</li>
+</ul>
