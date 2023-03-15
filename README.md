@@ -100,7 +100,7 @@ https://github.com/Ileriayo/markdown-badges
 <a href="https://www.gitkraken.com/">Cliente GitKraken</a>
 
 <a href="https://www.youtube.com/watch?v=RiAeNSFjjLc&ab_channel=GitKraken">
-   <img width=600 src="https://user-images.githubusercontent.com/90988377/225175423-edd74e92-4562-4220-9cf9-635ae6da4478.png" /> 
+   <img width=600 src="https://user-images.githubusercontent.com/90988377/225175987-6936b504-b55b-45c6-b8bd-edde218ca075.png" /> 
 </a>
 
 
