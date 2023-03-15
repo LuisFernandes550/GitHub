@@ -78,7 +78,7 @@ Quase todas as operações com Git são locais:
 </ul>
 <p>O Git permite também sincronizar com repositórios remotos. </p>
 
-# <span color='#1589F0'>O que é o Repositório GitHub?</span> 
+# O que é o Repositório GitHub?
 <p>O GitHub é um Serviço de Web Hosting gratuito, onde podemos alojar os nossos projectos. <br>
 Através desta  plataforma colaborativa é fácil partilhar e gerir o código fonte dos projectos que desenvolvemos. <br>
 Além disso, como o código é partilhado pode ser facilmente melhorado por outros colaboradores.</p>
