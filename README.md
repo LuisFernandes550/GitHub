@@ -23,12 +23,12 @@ Tem um grande nível de segurança/desempenho e é bastante flexível, porque é
 
 ## Sistemas de Controlo de Versões (VCS)
 
-Um sistema de controlode versões poderá conter ferramentas para:
+Um sistema de controlo de versões deverá conter ferramentas para:
 <ul>
   <li>arquivar ficheiros de um projeto (código-fonte e outros)</li>
   <li>registar alterações durante o desenvolvimento</li>
   <li>desfazer alterações ou recuperar versões anteriores</li>
-  <li>sincronizar diferentes computadores</li>  
-  <li>colaborar com outros programadores</li>  
+  <li>sincronizar projetos em diferentes computadores</li>  
+  <li>permitir a colaboração com outros programadores</li>  
   <li>separar “troncos” de desenvolvimento (ex: produção/desenvolvimento)</li>
 </ul>
