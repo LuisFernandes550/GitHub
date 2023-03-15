@@ -86,3 +86,7 @@ Além disso, como o código é partilhado pode ser facilmente melhorado por outr
 ## Sintaxe básica de gravação e formatação no GitHub (Readme.md)
 
 https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+## GitHub Markdown Badges
+
+https://github.com/Ileriayo/markdown-badges
