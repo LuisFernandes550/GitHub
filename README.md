@@ -42,16 +42,6 @@ Num Sistema de Controlo de Versões Distríbuido:
   <li>Facilitam a introdução de branches experimentais</li> 
 </ul>
 
-Git
-• Um VCS distribuído
-• Desenvolvido em 2005 para o kernel Linux
-• Muito usado em projetos open-source
-• Características:
-– conceção simples mas poderosa
-– adequado a projectos grandes (muitos ficheiros e história longa)
-– eficiente em espaço e recursos computacionais
-– suporte para desenvolvimento não-linear (“branching”)
-
 ## Porquê usar Git?
 
 <ul>
@@ -71,14 +61,19 @@ Git
 
 ## Integridade
 
-O Git associa um hash (40 carateres hexadecimais) a cada snapshot, e.g.: 34ac2a6552252987aa493b52f8696cd6d3b00373 <br>
-Garante que o conteúdo dos ficheiros não foi corrompido. <br>
-Serve também para identificar cada snapshot. <br>
+<ul>
+  <li>O Git associa um hash (40 carateres hexadecimais) a cada snapshot, e.g.: 34ac2a6552252987aa493b52f8696cd6d3b00373</li>
+  <li>Garante que o conteúdo dos ficheiros não foi corrompido.</li>
+  <li>Serve também para identificar cada snapshot.</li>
+</ul>
 
 ## Repositórios locais e remotos
-• Quase todas as operações com Git são locais:
-– inicializar repositórios
-– acrescentar/remover ficheiros
-– registar modificações (commit)
-– listar a história
-• O Git permite também sincronizar com repositórios remotos 
+
+Quase todas as operações com Git são locais:
+<ul>
+  <li>inicializar repositórios</li>
+  <li>acrescentar/remover ficheiros</li>
+  <li>registar modificações (commit)</li>
+  <li>listar a história</li>
+</ul>
+O Git permite também sincronizar com repositórios remotos. 
