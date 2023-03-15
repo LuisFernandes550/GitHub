@@ -13,7 +13,7 @@ Comparado com outros sistemas de controlo de versões tradicionais, o Git difere
 A utilização do GIT permite que um utilizador tenha acesso aos dados que foram por ele guardados ou por outro(s) utilizador(es) que também tenha(m) acesso ao repositório, <b>permitindo que um ficheiro possa ser editado ao mesmo tempo por múltiplas pessoas diferentes</b>. 
 
 <p align="center">
-<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uzdbcfw21iqc8mzupsk3.gif" width="600" />
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uzdbcfw21iqc8mzupsk3.gif" width="800" />
 </p>
 
 Tem um grande nível de segurança/desempenho e é bastante flexível, porque é <b>compatível com a maioria dos sistemas</b> - possui versões para Windows, Linux e Mac OS X, o que facilita muito o controlo de versões de aplicações desenvolvidas em diferentes plataformas.
